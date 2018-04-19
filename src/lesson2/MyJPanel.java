@@ -13,6 +13,7 @@ public class MyJPanel extends javax.swing.JPanel {
         figs = new Figure[2];
         figs[0]=new Rectangle(12,13,45,23);
         figs[1]=new Circle(123,145,15);
+
         colors = new Color[2];
         colors[0] = Color.BLUE;
         colors[1] = new Color(56,156,2);

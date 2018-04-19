@@ -14,6 +14,7 @@ public class Circle extends Figure {
         this.r=r;
     }
 
+
     @Override
     public void draw(Graphics g) {
         System.out.println("Drawing a circle");
